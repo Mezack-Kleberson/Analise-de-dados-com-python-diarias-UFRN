@@ -14,6 +14,10 @@ escolhida, e então elaborar 5 gráficos de acordo com as respostas/questões de
 ser ou não obrigatórias, ou seja as informações obrigatórias estão disponíveis em todos os
 requirimentos, já as não obrigatórias podem ou não estarem disponíveis.
 
+3. Ferramentas:
+
+   Para esse projeto foi utilizado o python e as bibliotecas json e matpl
+
 3. Questões:
 
 1 - Quais as quantidades de requisições por ano no período de 2010 a
