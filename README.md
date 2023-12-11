@@ -1,4 +1,4 @@
-# Aplicação com dados - diárias UFRN
+# Usando Python para analisar dados relacionados a diárias UFRN
 
 1. Descrição:
 
