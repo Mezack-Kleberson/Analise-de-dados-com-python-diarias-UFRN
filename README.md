@@ -16,7 +16,7 @@ requirimentos, já as não obrigatórias podem ou não estarem disponíveis.
 
 3. Ferramentas:
 
-   Para esse projeto foi utilizado o python e as bibliotecas json e matpl
+   Para esse projeto foi utilizado a linguagem de programação python e as bibliotecas json e matplotlib
 
 3. Questões:
 
